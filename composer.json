@@ -1,0 +1,17 @@
+{
+  "name": "ws/dummy",
+  "description": "Waldhart Shop dummy to claim vendor name",
+  "type": "typo3-cms-extension",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Alexander Mersdorf",
+      "email": "mersdorf@waldhart.at",
+      "role": "Developer"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+  },
+  "homepage": "http://www.waldhart.at"
+}
